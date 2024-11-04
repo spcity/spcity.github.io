@@ -154,14 +154,14 @@ svg:not(:root) {
         //color: $base-color;
         // color: lighten($base-color,30);
     	color: lighten($text-color,30);
-        font-weight: 100;
+        font-weight: 400;
     }
     
     a:hover {
     	text-transform: uppercase;
         // color: lighten($base-color,60);
 	color: lighten($text-color,60);
-        font-weight: 100;
+        font-weight: 400;
     }
 }
 
@@ -193,11 +193,11 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
 }
 
 .entry-title {
-    font-weight: 100;
+    font-weight: 400;
 }
 
 .entry-subtitle {
-	font-weight: 100;
+	font-weight: 400;
 }
 
 .main-header-image {
@@ -219,7 +219,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
 
     h1, a, div {
     	text-transform: uppercase;
-		color: lighten($base-color, 60);
+		color: lighten($text-color, 60);
 		letter-spacing: 5px;
 	}
 }
