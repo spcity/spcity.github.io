@@ -152,13 +152,15 @@ svg:not(:root) {
     a{
     	text-transform: uppercase;
         //color: $base-color;
-        color: lighten($base-color,30);
+        // color: lighten($base-color,30);
+    	color: lighten($text-color,30);
         font-weight: 100;
     }
     
     a:hover {
     	text-transform: uppercase;
-        color: lighten($base-color,60);
+        // color: lighten($base-color,60);
+	color: lighten($text-color,60);
         font-weight: 100;
     }
 }
