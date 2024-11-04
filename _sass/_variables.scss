@@ -24,10 +24,10 @@ $doc-line-height                 : 26;
 // $link-color                      : #202020;
 
 $base-color                      : rgba(#ffffff, 1);   // 将背景改为白色
-$body-color                      : #ffffff;            // 修改 body 背景为白色
+$body-color                      : #f5f5dc;            // 设置 body 背景为米色
 $text-color                      : #000000;            // 修改文字颜色为黑色
-$border-color                    : lighten($base-color, 60);  // 边框颜色保持当前亮度处理
-$link-color                      : #202020;            // 链接颜色可视需求保留或调整
+$border-color                    : lighten($base-color, 60);  // 保持边框颜色的亮度
+$link-color                      : #202020;            // 链接颜色可按需求调整
 
 
 /*--- SCREEN SIZES ----------------------------------------------------------*/
