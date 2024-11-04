@@ -227,14 +227,14 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
 .post-date {
     font-size: 12px;
 	text-transform: uppercase;
-    color: lighten($base-color,50);
+    color: #D8BFD8;
 
 	a {
-		color: lighten($base-color,50);
+		color: #D8BFD8;
 	}
     
     a:hover{
-        color: lighten($base-color,20);
+        color: #D8BFD8;
     }
 }
 
