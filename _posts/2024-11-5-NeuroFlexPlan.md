@@ -1,9 +1,11 @@
 ---
 layout: post
 categories: posts
-title: NeuroFlexPlan
+title: test
+subtitle: NeuroFlexPlan
+featured-image: /images/2016-11-19/abstract-6.jpg
 tags: [paper]
-date-string: NOVEMBER 5, 2021
+date-string: NOVEMBER 5, 2024
 ---
 
 hhhhhhhhhhhhhhhhhhhhhhh
