@@ -23,8 +23,9 @@ $doc-line-height                 : 26;
 // $border-color                    : lighten($base-color,60);
 // $link-color                      : #202020;
 
-$base-color                      : rgba(#ffffff, 1);   // 将背景改为白色
-$body-color                      : #f5f5dc;            // 设置 body 背景为米色
+// $base-color                      : rgba(#ffffff, 1);   // 将背景改为白色
+$base-color                      : rgba(#fffaf0, 1);   // 将背景改为柔和的象牙白 (Floral White)
+$body-color                      : #ffffff;            // 设置 body 背景为白色
 $text-color                      : #000000;            // 修改文字颜色为黑色
 $border-color                    : lighten($base-color, 60);  // 保持边框颜色的亮度
 $link-color                      : #202020;            // 链接颜色可按需求调整
