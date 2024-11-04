@@ -17,11 +17,18 @@ $doc-line-height                 : 26;
 
 /*--- COLORS ----------------------------------------------------------------*/
 
-$base-color                      : rgba(#222,0.8);
-$body-color                      : #202020;
-$text-color                      : #808080;
-$border-color                    : lighten($base-color,60);
-$link-color                      : #202020;
+// $base-color                      : rgba(#222,0.8);
+// $body-color                      : #202020;
+// $text-color                      : #808080;
+// $border-color                    : lighten($base-color,60);
+// $link-color                      : #202020;
+
+$base-color                      : rgba(#ffffff, 1);   // 将背景改为白色
+$body-color                      : #ffffff;            // 修改 body 背景为白色
+$text-color                      : #000000;            // 修改文字颜色为黑色
+$border-color                    : lighten($base-color, 60);  // 边框颜色保持当前亮度处理
+$link-color                      : #202020;            // 链接颜色可视需求保留或调整
+
 
 /*--- SCREEN SIZES ----------------------------------------------------------*/
 
