@@ -2,9 +2,9 @@
 layout: post
 categories: posts
 title: neuroplan
-subtitle: This is a neuroplan post.
+subtitle: 
 featured-image: /images/2016-11-19/abstract-6.jpg
-tags: [sample post]
+tags: [paper]
 date-string: NOVEMBER 3, 2024
 ---
 
