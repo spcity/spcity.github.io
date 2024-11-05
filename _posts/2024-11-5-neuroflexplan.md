@@ -1,10 +1,10 @@
 ---
 layout: post
 categories: posts
-title: neuroflexplan
+title: NeuroFlexPlan
 subtitle: neuroflexplan
 featured-image: /images/2016-11-19/abstract-5.jpg
-tags: [sample post]
+tags: [paper]
 date-string: NOVEMBER 5, 2024
 ---
 
