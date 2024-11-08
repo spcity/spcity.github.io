@@ -109,7 +109,11 @@ figure {
 svg:not(:root) {
   overflow: hidden; 
 }
-
+.image-caption {
+    font-size: 14px;
+    color: #555;
+    margin-top: 8px;
+}
 /*--- PAGINATION ------------------------------------------------------------*/
 
 .pagination {
