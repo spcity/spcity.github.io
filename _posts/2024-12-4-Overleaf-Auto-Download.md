@@ -11,6 +11,7 @@ date-string: DECEMBER 4, 2024
 # Overleaf-Auto-Download
 Automatically download the project after five minutes of inactivity on the Overleaf project page, and allow users to customize the inactivity time.
 
+![image](https://github.com/user-attachments/assets/4aff9dbb-e11a-4697-8594-ab7d00bb5cc2)
 
 ### **Features**
 
