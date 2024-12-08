@@ -4,7 +4,7 @@ categories: posts
 title: Overleaf-Auto-Download
 subtitle: 
 featured-image: /images/2016-11-19/abstract-5.jpg
-tags: [paper]
+tags: [project]
 date-string: DECEMBER 4, 2024
 ---
 
